@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.BarDiscount {
+    position: absolute;
+    width: 1024px;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+    background: #1CD1B0;
+}
+
+.p-header {
+    position: absolute;
+    width: 124px;
+    height: 18px;
+    left: 10px;
+    top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+
